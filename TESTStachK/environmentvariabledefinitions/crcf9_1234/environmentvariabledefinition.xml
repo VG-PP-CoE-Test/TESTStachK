@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="crcf9_1234">
+  <displayname default="1234">
+    <label description="1234" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.2</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000001</type>
+</environmentvariabledefinition>
